@@ -296,7 +296,7 @@
   <string name="about_translators_heading">翻訳者</string>
   <string name="about_translators_translatewiki">このアプリは&lt;a href=\"https://translatewiki.net\"&gt;translatewiki.net&lt;/a&gt;で、ボランティアの翻訳者によって翻訳されました。</string>
   <string name="about_app_license_heading">ライセンス</string>
-  <string name="about_app_license">ソースコードは&lt;a href=\"https://gerrit.wikimedia.org/r/#/admin/projects/apps/android/wikipedia\"&gt;Gerrit&lt;/a&gt;と&lt;a href=\"https://github.com/wikimedia/apps-android-wikipedia\"&gt;GitHub&lt;/a&gt;上で利用可能で、&lt;a href=\"https://phabricator.wikimedia.org/diffusion/APAW/browse/master/COPYING?view=raw\"&gt;Apache 2.0 License&lt;/a&gt;の下で提供されています。特に明記されている場合を除き、コンテンツは&lt;a href=\"https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License\"&gt;Creative Commons Attribution-ShareAlike License&lt;/a&gt;の下で提供されます。</string>
+  <string name="about_app_license" fuzzy="true">ソースコードは&lt;a href=\"https://gerrit.wikimedia.org/r/#/admin/projects/apps/android/wikipedia\"&gt;Gerrit&lt;/a&gt;と&lt;a href=\"https://github.com/wikimedia/apps-android-wikipedia\"&gt;GitHub&lt;/a&gt;上で利用可能で、&lt;a href=\"https://phabricator.wikimedia.org/diffusion/APAW/browse/master/COPYING?view=raw\"&gt;Apache 2.0 License&lt;/a&gt;の下で提供されています。特に明記されている場合を除き、コンテンツは&lt;a href=\"https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License\"&gt;Creative Commons Attribution-ShareAlike License&lt;/a&gt;の下で提供されます。</string>
   <string name="about_wmf">&lt;a href=\"https://wikimediafoundation.org/\"&gt;ウィキメディア財団&lt;/a&gt;のプロダクト</string>
   <string name="about_activity_title">このアプリについて</string>
   <string name="edit_abandon_confirm">ページが変更されています。変更を保存せずに終了してもよろしいですか?</string>
@@ -790,8 +790,8 @@
   <string name="notifications_menu_uncheck_all">すべての項目のチェックを外す</string>
   <string name="notifications_wiki_filter_header">ウィキフィルター</string>
   <string name="notifications_type_filter_header">種類フィルター</string>
-  <string name="notifications_all_wikis_text">すべての「ウィキ」</string>
-  <string name="notifications_all_types_text">すべての「種類」</string>
+  <string name="notifications_all_wikis_text" fuzzy="true">すべての「ウィキ」</string>
+  <string name="notifications_all_types_text" fuzzy="true">すべての「種類」</string>
   <string name="notifications_menu_user_talk_page">%sのトークページ</string>
   <string name="notifications_offline_disable_message">この機能はオフラインでは利用できません。</string>
   <string name="view_because_you_read_card_title">閲覧履歴からのおすすめ</string>
