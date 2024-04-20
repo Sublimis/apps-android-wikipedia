@@ -248,8 +248,8 @@
   <string name="terms_of_use_url">https://foundation.wikimedia.org/wiki/Terms_of_Use</string>
   <string name="android_app_request_an_account_url">https://en.wikipedia.org/wiki/Wikipedia:Request_an_account</string>
   <string name="cc_by_sa_4_url">https://creativecommons.org/licenses/by-sa/4.0/deed.sr</string>
-  <string name="android_app_edit_help_url">https://m.mediawiki.org/wiki/Wikimedia_Apps/Suggested_edits/sr</string>
-  <string name="suggested_edits_image_tags_help_url">https://www.mediawiki.org/wiki/Wikimedia_Apps/Suggested_edits/sr#Ознаке_слика</string>
+  <string name="android_app_edit_help_url">https://m.mediawiki.org/wiki/Wikimedia_Apps/Android_Suggested_edits</string>
+  <string name="suggested_edits_image_tags_help_url">https://m.mediawiki.org/wiki/Wikimedia_Apps/Android_Suggested_edits#Image_tags</string>
   <string name="about_libraries_heading">Коришћене библиотеке</string>
   <string name="about_contributors_heading">Сарадници</string>
   <string name="about_contributors">&lt;a href=\"https://www.mediawiki.org/wiki/Wikimedia_Apps/Team/Android\"&gt;Страница тима&lt;/a&gt;</string>
@@ -1086,7 +1086,7 @@
   <string name="image_recommendation_tooltip_next">Следеће</string>
   <string name="image_recommendation_tooltip_warning">Молимо Вас да прегледате чланак да би сте разумели његову тему и проверите слику</string>
   <string name="image_recommendation_depleted">Извините, у овом моменту нема више доступних слика за предлагање. Погледајте остале &lt;a href=\"#\"&gt;предложене измене&lt;/a&gt; или покушајте касније.</string>
-  <string name="suggested_edits_report_feature">Проблем са могућношћу</string>
+  <string name="suggested_edits_report_feature">Проблем са функцијом</string>
   <string name="suggested_edits_report_feature_subject">Проблем са Предложеним изменама</string>
   <string name="edit_summary_added_image">Додата слика</string>
   <string name="edit_summary_added_caption">Додат натпис</string>
@@ -1547,7 +1547,7 @@
   <string name="patroller_tasks_patrol_edit_rollback_dialog_title">Сигурно врати измене?</string>
   <string name="patroller_tasks_patrol_edit_rollback_success">Враћање извршено</string>
   <string name="patroller_tasks_patrol_edit_snackbar_view">Прикажи</string>
-  <string name="patroller_tasks_overflow_report">Проблем са могућношћу</string>
+  <string name="patroller_tasks_overflow_report">Проблем са функцијом</string>
   <string name="patroller_tasks_overflow_learn">Сазнајте више</string>
   <string name="patroller_onboarding_one_title">Допринесите надзору или одобравању измена на Википедији.</string>
   <string name="patroller_onboarding_one_content">Побољшајте квалитет садржаја Википедије активним прегледом фида скорашњих измена и пружањем смерница, контролом квалитета и охрабривањем других уредника/ца.</string>
@@ -1556,8 +1556,6 @@
   <string name="patroller_onboarding_two_thank_content">Видите продуктивну измену? Захвалите се кориснику за његов допринос.</string>
   <string name="patroller_onboarding_two_watch_title">Надгледај</string>
   <string name="patroller_onboarding_two_watch_content">Да ли желите да пратите измене чланка? Додајте га на свој списак надгледања. Погледајте га под \'Више\'.</string>
-  <string name="patroller_onboarding_two_warn_title">Упозори</string>
-  <string name="patroller_onboarding_two_warn_content">Правите, шаљите, и чувајте поруке упозорења на уредничкој страници за разговор</string>
   <string name="patroller_onboarding_two_undo_title">Поништи/врати</string>
   <string name="patroller_onboarding_two_undo_content">Одаберите \'Поништи\' да би сте поништили или вратили потенционалну деструктивну измену.</string>
   <string name="patroller_diff_feedback_dialog_title">Помозите нам да унапредимо ову могућност</string>
