@@ -125,7 +125,7 @@
   <string name="dialog_message_leaving_edit">Этген тюрлениулеригиз алкъын басмаланмагъанды. Бу бетден кетерге излегенигизге ишексизмисиз?</string>
   <string name="dialog_message_leaving_edit_leave">Кет</string>
   <string name="dialog_message_leaving_edit_stay">Къал</string>
-  <string name="menu_show_toc">Ичиндегиси</string>
+  <string name="menu_show_toc">Ичиндегилени Таблицасы</string>
   <string name="search_no_results_found">Джукъ да табылмады</string>
   <string name="search_reading_list_no_results">\"%s\" ичинде эсебле табылмады</string>
   <string name="search_reading_lists_no_results">Окъуу тизмегизде эсебле табылмадыла</string>
@@ -201,7 +201,7 @@
   <string name="preferences_account_heading">Хыйсаб</string>
   <string name="wikipedia_app_faq">Wikipedia App FAQ</string>
   <string name="send_feedback">Къошакъ ючюн кери билдириу джибер</string>
-  <string name="create_account_account_created_toast">Тергеу джазыу къуралды!</string>
+  <string name="create_account_account_created_toast">Хыйсаб къуралды!</string>
   <string name="preferences_heading_syncing">Синхронизация</string>
   <string name="preferences_heading_data_usage">Трафик хайырланыу</string>
   <string name="preferences_heading_experimental">Экспериментли</string>
@@ -408,7 +408,7 @@
   <string name="theme_chooser_dialog_image_dimming_switch_label">Суратланы къарартыу (Къарангы тема ючюн)</string>
   <string name="preference_title_prefer_offline_content">Оффлайн контентни сайла</string>
   <string name="preference_summary_prefer_offline_content">Бу статьяны ахыр версиясын джюклер орнуна, хар кере оффлайн хайырланырча статьяланы джюклеб, трафикни аяулу эт</string>
-  <string name="theme_chooser_dialog_match_system_theme_switch_label">Система темагъа келишеди</string>
+  <string name="theme_chooser_dialog_match_system_theme_switch_label">Система темагъа келишдир</string>
   <string name="page_footer_license_text">Башха белгиленмеген эсе, ичиндегиси,  $1 лицензиягъа кёре бериледи.</string>
   <string name="empty_tab_title">Джангы салгъыч</string>
   <string name="menu_save_all_tabs">Бютеу салгъычланы сакъландыр</string>
@@ -655,7 +655,7 @@
   <string name="notification_reverted_title">Кери алыннган тюзетиу</string>
   <string name="notification_channel_title">Статьяла эндириледиле</string>
   <string name="notification_channel_description">Эндириуню прогресси</string>
-  <string name="notification_syncing_pause_button">Пауза</string>
+  <string name="notification_syncing_pause_button">Туракълат</string>
   <string name="notification_syncing_resume_button">Бардыр</string>
   <string name="notification_syncing_cancel_button">Ызына ал</string>
   <string name="notification_syncing_reading_list_channel_title">Окъуу тизмеле синхронизация этиле турады</string>
@@ -704,7 +704,7 @@
   <string name="notifications_view_archived_button_text">Архив этилген хапарландырыуланы кёргюз</string>
   <string name="notification_preferences_title">Хапарландырыу джарашдырыула</string>
   <string name="notifications_mark_unread">Окъулмагъанды деб белгиле</string>
-  <string name="notifications_mark_all_as_read">Окъулгъанча белгиле</string>
+  <string name="notifications_mark_all_as_read">Барсын да окъулгъанды деб белгиле</string>
   <string name="notifications_direct_reply_action">Джууабла</string>
   <string name="notifications_direct_reply_progress">%s хайырланыучугъа джууаб джибериле турады…</string>
   <string name="notifications_direct_reply_success">Джууаб басмаланды.</string>
@@ -729,7 +729,7 @@
   <string name="preference_summary_notification_milestone">Белгили тюзетиу саннга джетилди</string>
   <string name="preference_title_notification_thanks">Сау болугъуз</string>
   <string name="preference_summary_notification_thanks">Ким эсе да тюзетиуюгюз ючюн сизге сау бол деди</string>
-  <string name="preference_title_notification_revert">Эски халына къайтар</string>
+  <string name="preference_title_notification_revert">Кери ал</string>
   <string name="preference_summary_notification_revert">Къошумларыгъызны бири кери алынды</string>
   <string name="preference_title_notification_login_fail">Кириу</string>
   <string name="preference_summary_notification_login_fail">Кириу активлигигиз</string>
@@ -1017,7 +1017,7 @@
   <string name="suggested_edits_what_is_title">Теджелген тюзетиулен недиле?</string>
   <string name="suggested_edits_what_is_text">Теджелген тюзетиуле, Википедияда гитче, алай а джашау магъаналы къошумла ючюн амал бередиле.</string>
   <string name="suggested_edits_learn_more">Аслам бил</string>
-  <string name="suggested_edits_paused_title">Пауза этилди</string>
+  <string name="suggested_edits_paused_title">Туракълатылды</string>
   <string name="suggested_edits_disabled_title">Джукъланыбды</string>
   <string name="suggested_edits_ip_blocked_title">IP блок этилди</string>
   <string name="suggested_edits_last_edited">Ахыр тюзетиу</string>
@@ -1428,7 +1428,7 @@
   <string name="watchlist_filter_type_of_change_category_changes">Категория тюрлениуле</string>
   <string name="watchlist_filter_type_of_change_wikidata_edits">Викибилгилени тюзетиулери</string>
   <string name="watchlist_filter_type_of_change_logged_actions">Кюнлюк ишлеуле</string>
-  <string name="watchlist_filter_type_of_change_new_users">Джангы хайырланыучу</string>
+  <string name="watchlist_filter_type_of_change_new_users">Джангы хайырланыучула</string>
   <string name="watchlist_filter_reset_button">Ариула</string>
   <string name="watchlist_search_bar_hint">Кёздеги тизмени излегиз эмда фильтр этигиз</string>
   <string name="watchlist_search_bar_filter_hint">Кёздеги тизме фильтр</string>
